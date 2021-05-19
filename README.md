@@ -9,8 +9,6 @@
 [![Amulya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashastry2&theme=vision-friendly-dark)](https://github.com/Ashastry2/github-readme-stats)
 
 
-#[![Amulya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ashastry2)](https://github.com/Ashastry2/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashastry2)](https://github.com/Ashastry2/github-readme-stats)
 
 
