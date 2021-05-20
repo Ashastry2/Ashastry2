@@ -9,7 +9,7 @@
 [![Amulya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashastry2&theme=vision-friendly-dark)](https://github.com/Ashastry2/github-readme-stats)
 
 I work with - 
-[![Docker]("https://github.com/Ashastry2/Ashastry2/logos/Docker.png")
+("https://github.com/Ashastry2/Ashastry2/logos/Docker.png")
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashastry2)](https://github.com/Ashastry2/github-readme-stats)
