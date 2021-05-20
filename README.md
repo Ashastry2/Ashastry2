@@ -31,6 +31,11 @@ I am a Bioinformatics Analyst focused on building pipelines, performing NGS data
 
 [![Amulya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashastry2&theme=vision-friendly-dark)](https://github.com/Ashastry2/github-readme-stats)
 
+### Github Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ashastry2&theme=darkhub)](https://github.com/Ashastry2/github-profile-trophy)
+
+
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashastry2)](https://github.com/Ashastry2/github-readme-stats)
@@ -46,5 +51,8 @@ I am a Bioinformatics Analyst focused on building pipelines, performing NGS data
   <img align="left" width="100px" src="https://github.com/Ashastry2/Ashastry2/blob/main/logos/LI-Logo.png"/>
 </a>
 
+</br>
 
+
+<!--Awesome stats from here - https://github.com/anuraghazra/github-readme-stats-->
 
