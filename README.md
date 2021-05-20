@@ -1,7 +1,8 @@
 ### Hi there, I am Amulya Shastry 👋
 
-
-<img align="left" src="https://github.com/Ashastry2/Ashastry2/logos/Docker.png" />
+<a href = https://id.docker.com/reset-password/?service=43f17c5f-9ba4-4f13-853d-9d0074e349a7 />
+  <img align="left" width="22px" src="https://github.com/Ashastry2/Ashastry2/logos/Docker.png" />
+</a>
 
 - 🔭 I’m currently working on snakemake pipelines
 - 🌱 I’m currently learning how to create documentation using sphinx
