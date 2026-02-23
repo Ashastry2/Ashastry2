@@ -47,7 +47,7 @@ I am a Bioinformatics Analyst focused on building pipelines, performing NGS data
   <img align="left" width="50px" src="https://github.com/Ashastry2/Ashastry2/blob/main/logos/twitter.png"/>
 </a>
 
-<a href="www.linkedin.com/in/amulya-shastry">
+<a href="https://www.linkedin.com/in/amulya-shastry/">
   <img align="left" width="100px" src="https://github.com/Ashastry2/Ashastry2/blob/main/logos/LI-Logo.png"/>
 </a>
 
